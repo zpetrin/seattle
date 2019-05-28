@@ -10,3 +10,9 @@
 
 # Columbia Center Tower
 * https://en.wikipedia.org/wiki/Columbia_Center
+
+# Gum Wall
+* https://en.wikipedia.org/wiki/Gum_Wall
+
+# Original Starbucks
+* https://en.wikipedia.org/wiki/Original_Starbucks
