@@ -8,6 +8,9 @@
 # Museum of Pop Culture
 * https://en.wikipedia.org/wiki/Museum_of_Pop_Culture
 
+# Chihuly Garden and Glass
+* https://en.wikipedia.org/wiki/Chihuly_Garden_and_Glass
+
 # Seattle Underground
 * https://en.wikipedia.org/wiki/Seattle_Underground
 * http://www.undergroundtour.com/
