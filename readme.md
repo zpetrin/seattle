@@ -26,3 +26,6 @@
 
 # Olympic Sculpture Park
 * https://en.wikipedia.org/wiki/Olympic_Sculpture_Park
+
+# Seattle Great Wheel
+* https://en.wikipedia.org/wiki/Seattle_Great_Wheel
